@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yesilsekil">#417310</color>
+    <color name="yesilcizgi">#656735</color>
+    <color name="kremsekil">#F2EBD5</color>
+    <color name="kremcizgi">#C6BE9F</color>
+    <color name="renk">#898962</color>
+    <color name="renk2">#A69485</color>
+    <color name="renk3">#BFBFBF</color>
+</resources>
